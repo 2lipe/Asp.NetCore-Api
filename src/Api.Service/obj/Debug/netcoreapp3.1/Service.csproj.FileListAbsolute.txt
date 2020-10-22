@@ -1,0 +1,14 @@
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/bin/Debug/netcoreapp3.1/Service.deps.json
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/bin/Debug/netcoreapp3.1/Service.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/bin/Debug/netcoreapp3.1/Service.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfoInputs.cache
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfo.cs
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/Debug/netcoreapp3.1/Service.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csprojAssemblyReference.cache
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/bin/Debug/netcoreapp3.1/Data.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/bin/Debug/netcoreapp3.1/Domain.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/bin/Debug/netcoreapp3.1/Data.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CopyComplete

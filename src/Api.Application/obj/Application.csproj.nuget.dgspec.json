@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Application/Application.csproj": {}
+  },
+  "projects": {
+    "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Application/Application.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/CrossCutting.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/CrossCutting.csproj"
+              },
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj"
+              },
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/Service.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/CrossCutting.csproj",
+        "projectName": "CrossCutting",
+        "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/CrossCutting.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/Data.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/Data.csproj"
+              },
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj"
+              },
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/Service.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/Data.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/Service.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/Data.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Data/Data.csproj"
+              },
+              "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj": {
+                "projectPath": "/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

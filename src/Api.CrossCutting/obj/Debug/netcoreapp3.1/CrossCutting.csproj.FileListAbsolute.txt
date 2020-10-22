@@ -1,0 +1,16 @@
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Data.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Domain.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Service.dll
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Service.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Data.pdb
+/home/felipe/Desktop/ASP.Net-Curso/Asp.NetCoreAPI/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CopyComplete
